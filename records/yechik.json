@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "HayashiRoj",
+    "email": "2034502495@qq.com"
+  },
+  "domain": "yechik",
+  "records": {
+    "CNAME": [
+      "hayashiroj.github.io"
+    ]
+  },
+  "proxied": false
+}
