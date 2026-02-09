@@ -5,9 +5,7 @@
   },
   "domain": "reimu",
   "records": {
-    "CNAME": [
-      "reimu.is-best.net"
-    ]
+    "CNAME": "reimu.is-best.net"
   },
   "proxied": false
 }
