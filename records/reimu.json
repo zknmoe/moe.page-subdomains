@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "HakureiPrevious",
+    "email": "reimu1997@outlook.com"
+  },
+  "domain": "reimu",
+  "records": {
+    "CNAME": "reimu.is-best.net"
+  },
+  "proxied": false
+}
