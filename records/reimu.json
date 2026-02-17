@@ -5,8 +5,9 @@
   },
   "domain": "reimu",
   "records": {
-    "CNAME": "sub2srt.wx1145141919810.workers.dev"
+    "CNAME": "mtr-pids.vercel.app"
   },
-  "proxied": true
+  "proxied": false
 
 }
+
