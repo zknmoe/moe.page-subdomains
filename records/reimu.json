@@ -5,7 +5,8 @@
   },
   "domain": "reimu",
   "records": {
-    "CNAME": "reimu.is-best.net"
+    "CNAME": "sub2srt.wx1145141919810.workers.dev"
   },
-  "proxied": false
+  "proxied": true
+
 }
