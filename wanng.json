@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "wanngxuanji",
+    "email": "yefangggg@gmail.com"
+  },
+  "domain": "wanng",
+  "records": {
+    "CNAME": "wanng-porfolio.web.app"
+  },
+  "proxied": false
+}
