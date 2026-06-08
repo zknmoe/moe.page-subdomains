@@ -4,6 +4,7 @@
     "email": "2142706679@qq.com"
   },
   "domain": "baka",
-  "records": {},
+  "records": {
+  },
   "proxied": false
 }
