@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "we123tdt",
+    "email": "ghu123334@outlook.com"
+  },
+  "domain": "cn.a10-8",
+  "records": {
+    "A": [
+      "223.5.5.5"
+    ]
+  },
+  "proxied": false
+}
