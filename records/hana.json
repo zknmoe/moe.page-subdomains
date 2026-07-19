@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Skymid-creator",
+    "email": "skymidrevengers@gmail.com"
+  },
+  "domain": "hana",
+  "records": {
+    "CNAME": "6cf98c987ef1c6fc.vercel-dns-017.com."
+  },
+  "proxied": false
+}
