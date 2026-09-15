@@ -161,10 +161,18 @@ async function processRecord(filePath) {
 
 
 
-const filePath = process.argv[2];
+const inputPath = process.argv[2];
 
-if (!filePath) {
+if (!inputPath) {
     console.error('[Error] Please provide a file path as a parameter!');
+    process.exit(1);
+}
+
+const recordsDir = path.resolve('records');
+const filePath = path.resolve(recordsDir, path.basename(inputPath));
+
+if (path.dirname(filePath) !== recordsDir) {
+    console.error('[Error] Invalid file path!');
     process.exit(1);
 }
 
